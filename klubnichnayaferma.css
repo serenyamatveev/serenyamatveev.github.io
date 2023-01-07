@@ -1,0 +1,167 @@
+ul.menu {
+    position: fixed;
+    text-align: center;
+    font-family: Comic Sans MS;
+    background: green;
+    margin: 0; 
+    padding: 15px; 
+}
+ul.menu li {
+    text-decoration: none;
+    color: #fff;
+    display: inline; 
+    margin-right: 50px; 
+}
+ul.menu li a {
+    font-size: 35px;
+    text-decoration: none;
+    color: #fff;
+}
+ul.menu li img {
+    width: 170px;
+    height: 110px;
+}
+#b {
+    width: 1500px;
+}
+.a {
+    text-align: center;
+    margin-top: -600px;
+    color: #fff;
+    font-family: Monotype Corsiva;
+    font-size: 70px;
+}
+.c {
+    text-align: center;
+    margin-top: -10px;
+    color: #fff;
+    font-family: Monotype Corsiva;
+    font-size: 70px;
+}
+#d {
+    margin-top: 300px;
+    font-family: Comic Sans MS;
+    font-size: 70px;
+    text-align: center;
+}
+.e {
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    text-align: center;
+}
+.f {
+    width: 350px;
+}
+.g {
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+#h {
+    background-image: url(https://funart.pro/uploads/posts/2021-04/1617392291_2-p-oboi-fon-dlya-prezentatsii-priroda-2.jpg);
+}
+#i {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-01/1643274230_1-phonoteka-org-p-zelenii-fon-priroda-1.jpg);
+}
+#j {
+    background-image: url(https://img.freepik.com/premium-photo/summer-bright-background-with-strawberries-on-a-gray-surface-and-place-for-text-in-the-middle_373887-621.jpg);
+}
+#n {
+    width: 1500px;
+    margin-bottom: -1500px;
+}
+.o {
+    width: 400px;
+    margin-bottom: -550px;
+}
+#p {
+    width: 1000px;
+    margin-left: 500px;
+    font-size: 40px;
+    font-family: Comic Sans MS;
+    margin-bottom: -500px;
+}
+#r {
+    width: 400px;
+}
+#t {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/thumbs/1644914584_9-phonoteka-org-p-zemlyanika-fon-14.jpg);
+}
+#y {
+    background-image: url(https://phonoteka.org/uploads/posts/2021-04/1619727736_21-phonoteka_org-p-klubnika-fon-vektor-28.jpg);
+}
+#z {
+    background-image: url(https://avatars.mds.yandex.net/i?id=0ab19d042f0f3240c0cd209f0d2f9245-5220647-images-thumbs&n=13);
+}
+#x {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-bottom: -250px;
+    margin-left: 300px;
+}
+nav#class td {
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    width: 300px;
+    color: #fff;
+}
+#h1 {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+nav#class table {
+    margin-left: 150px;
+    background-image: url(https://img.freepik.com/free-photo/green-bushes-of-strawberries-growing-in-rows-at-greenhouse_7502-7800.jpg?w=2000);
+    border: 5px solid green;
+}
+#img {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-left: 700px;
+}
+#h2 {
+    font-family: Comic Sans MS;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 70px;
+}
+#img2 {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-left: 700px;
+}
+ul.content {
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    padding: 10px;
+}
+ul.content li {
+    text-decoration: none;
+    display: inline; 
+    margin-right: 10px;
+}
+ol {
+    list-style: none;
+    font-size: 30px;
+    font-family: Comic Sans MS;
+    padding: 30px;
+}
+ol li::before {
+    content: '✔';
+    color: red;
+}
+#idid {
+    background-image: url(https://i.pinimg.com/originals/30/c2/f2/30c2f210730e728f759f5a3e4ad0db8c.jpg);
+}
+.class2 {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+}
+#ppp {
+    background-image: url(https://media.istockphoto.com/id/1205730774/vector/cute-strawberries-with-dots-vector-seamless-pattern-strawberry-berries-fruit-background.jpg?s=612x612&w=is&k=20&c=plW7l9JJqPYlZ3vYWq1WOi3KSi-lqNbZaGxNrRP4mQk=);
+}
